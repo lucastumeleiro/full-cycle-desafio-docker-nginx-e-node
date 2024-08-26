@@ -18,3 +18,5 @@ RUN wget https://github.com/jwilder/dockerize/releases/download/$DOCKERIZE_VERSI
 USER node
 
 WORKDIR /usr/src/app
+
+EXPOSE 3000

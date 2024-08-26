@@ -1,2 +1,2 @@
-mysql
-!node/.docker/mysql
+/mysql/data/*
+/node/node_modules
